@@ -1,0 +1,14 @@
+{
+  "name": "lighthouse-node",
+  "version": "1.0.0",
+  "description": "Web app in Express to serve Lighthouse app usage",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
